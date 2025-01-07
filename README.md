@@ -41,8 +41,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/MLflow_Titanic_Project.git
-   cd MLflow_Titanic_Project
+   git clone https://github.com/ibrahimsabouh/MLFlow-Titanic-Dataset.git
+   cd MLFlow-Titanic-Dataset
    ```
 
 2. **Set up the environment**:
@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
      pip install -r requirements.txt
      ```
 
-3. **Run MLflow Tracking Server** (Optional):
+3. **Run MLflow Tracking Server**:
    * To access the MLflow UI, run the following command:
      ```bash
      mlflow ui
